@@ -4,7 +4,7 @@ Mostly interested in **software, game modding, automation, and low-level-ish exp
 I mostly do minecraft or python things
 
 ```python
-from OpenAi import gptsol
+from openai import gptsol
 ```
 
 ## stuff I use
@@ -20,7 +20,5 @@ from OpenAi import gptsol
 I usually build stuff because i'm bored
 
 > *"codex go faster kid"*
-
----
 
 <sub>most of the interesting commits are probably hiding in private repos</sub>
