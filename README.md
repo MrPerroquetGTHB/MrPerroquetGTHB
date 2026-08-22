@@ -21,4 +21,4 @@ I usually build stuff because i'm bored
 
 > *"codex go faster kid"*
 
-<sub>most of the interesting commits are probably hiding in private repos</sub>
+<sub>99% of the things i actually code aren't public sorry</sub>
